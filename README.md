@@ -29,6 +29,8 @@ Se realizó la verificación de las herramientas y versiones requeridas para el 
 
 ## Estructura del Proyecto
 
+![Estructura del proyecto](./docs/img/estructura-proyecto.png)
+
 ```text
 guia-01-arqSoftware/
 ├── docs/
@@ -51,4 +53,3 @@ guia-01-arqSoftware/
 ### Evidencia de la Estructura de Carpetas
 
 ![Estructura del Proyecto](./docs/img/estructura-proyecto.png)
-
