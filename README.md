@@ -36,6 +36,7 @@ guia-01-arqSoftware/
 │   ├── decisiones/
 │   │   └── ADR-000-plantilla.md
 │   └── img/
+│       ├── estructura-proyecto.png
 │       └── verificacion-entorno.png
 ├── src/
 │   ├── app.js
@@ -46,3 +47,8 @@ guia-01-arqSoftware/
 ├── package.json
 └── package-lock.json
 ```
+
+### Evidencia de la Estructura de Carpetas
+
+![Estructura del Proyecto](./docs/img/estructura-proyecto.png)
+
