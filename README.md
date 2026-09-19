@@ -15,11 +15,11 @@ Repositorio correspondiente al laboratorio y guía práctica de Arquitectura de 
 Se realizó la verificación de las herramientas y versiones requeridas para el laboratorio:
 
 | Herramienta | Versión Instalada |
-| :--- | :--- |
-| **Node.js** | `v25.8.0` |
-| **npm** | `11.11.0` |
-| **Git** | `2.50.1` |
-| **Docker** | `29.3.1` |
+| :---------- | :---------------- |
+| **Node.js** | `v25.8.0`         |
+| **npm**     | `11.11.0`         |
+| **Git**     | `2.50.1`          |
+| **Docker**  | `29.3.1`          |
 
 ### Evidencia de Ejecución en Terminal
 
